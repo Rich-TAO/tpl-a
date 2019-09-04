@@ -27,6 +27,6 @@ npm run start
 npm run build
 ```
 
-新增 `dist` 目录，里面是打包好的项目代码
+
 
 

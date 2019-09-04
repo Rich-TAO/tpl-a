@@ -1,14 +1,14 @@
 {
-  "name": "react-mobx-starter",
+  "name": "{{name}}",
   "version": "1.0.0",
-  "description": "",
+  "description": "{{description}}",
   "private": true,
   "scripts": {
     "start": "webpack-dev-server --config ./webpack/webpack.config.dev.js",
     "build": "webpack --config ./webpack/webpack.config.prod.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "{{author}}",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.5.5",
