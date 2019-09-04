@@ -4,7 +4,7 @@
 
 ## 下载项目
 ``` bash
-git clone https://github.com/beichensky/react-mobx-starter.git
+git clone https://github.com/Rich-TAO/tpl-a.git
 ```
 
 ## 安装插件
