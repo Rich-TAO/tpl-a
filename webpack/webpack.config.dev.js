@@ -9,9 +9,8 @@ const proxy = require('../config/proxy');
 const { 
     protocol,
     host,
-    port
+    port 
 } = require('../config/devServer');
-
 
 // 在开发环境中获取局域网中的本机iP地址
 const interfaces = os.networkInterfaces();
@@ -39,7 +38,7 @@ const config = merge(common, {
         // 端口号
         port,
         historyApiFallback: true,
-        open: true,
+        open: false,
         // 是否在浏览器蒙层展示错误信息
         overlay: true,
         inline: true,

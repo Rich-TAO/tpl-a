@@ -1,6 +1,6 @@
 /*
  * @file: request
- * @author: beichensky
+ * @author: rich-tao
  * @description: 用来进行网络请求的工具类
  */
 

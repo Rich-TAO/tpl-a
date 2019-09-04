@@ -1,6 +1,6 @@
 /*
  * @file: GlobalModel
- * @author: beichensky
+ * @author: rich-tao
  * @description: 用来存放全局数据的 Model
  */
 

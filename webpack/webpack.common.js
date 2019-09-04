@@ -33,7 +33,7 @@ module.exports = {
         }),
         // 打包进度
         new ProgressBarPlugin({
-            complete: "█",
+            complete: "",
             format: chalk.green('Webpack ') + '[ '+ chalk.green(':bar') + ' ] ' + ':msg: ' + chalk.bold('(:percent)'),
             clear: true
         }),

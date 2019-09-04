@@ -30,6 +30,3 @@ npm run build
 新增 `dist` 目录，里面是打包好的项目代码
 
 
-
-## 更多
-关于项目的更多介绍请查看我的博客：[从零开始搭建一个 React + Mobx + React Router 脚手架](https://juejin.im/post/5caee4266fb9a0688144ec68)
