@@ -1,6 +1,6 @@
 /*
  * @file: DisplayModel
- * @author: beichensky
+ * @author: rich-tao
  * @description: 用来存放 Display 界面相关数据的 Model
  */
 

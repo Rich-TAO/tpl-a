@@ -1,6 +1,6 @@
 /*
  * @file: Settings
- * @author: beichensky
+ * @author: rich-tao
  * @description: 用来展示和修改全局 Model 数据使用方式的界面
  */
 

@@ -1,6 +1,6 @@
 /*
  * @file: NotFound
- * @author: beichensky
+ * @author: rich-tao
  * @description: 路由不匹配时错误信息展示界面
  */
 

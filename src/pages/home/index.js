@@ -1,6 +1,6 @@
 /*
  * @file: Home
- * @author: beichensky
+ * @author: rich-tao
  * @description: 打开应用展示的主界面
  */
 

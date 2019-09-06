@@ -1,6 +1,6 @@
 /*
  * @file: Display
- * @author: beichensky
+ * @author: rich-tao
  * @description: 用来展示 mobx 同步/异步操作数据的界面
  */
 

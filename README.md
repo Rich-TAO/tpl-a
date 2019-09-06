@@ -1,16 +1,17 @@
 # react-mobx-starter
 进行 React + Mobx + React Route 开发的脚手架
 
+## 安装rich-tao-cli脚手架
+``` bash
+npm install [-g] rich-tao-cli
+```
+
 
 ## 下载项目
 ``` bash
-git clone https://github.com/Rich-TAO/tpl-a.git
+    rich-tao-cli init tpl-a yourProjectName
 ```
 
-## 安装插件
-``` bash
-npm install
-```
 
 
 ## 运行项目
